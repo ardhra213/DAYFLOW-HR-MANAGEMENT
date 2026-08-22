@@ -1,3 +1,3 @@
-# PUSH
+# user_profiles
 
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-dd7bmxvp)
+[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-xshzn2kw)
