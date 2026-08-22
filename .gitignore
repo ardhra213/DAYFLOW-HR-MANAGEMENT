@@ -7,9 +7,15 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+.pnpm-store
 dist
 dist-ssr
 *.local
+
+# Local and platform environment files may contain credentials.
+.env*
+!.env.example
+.vercel
 
 .vscode/*
 !.vscode/extensions.json
@@ -20,4 +26,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-.env

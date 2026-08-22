@@ -1,0 +1,9 @@
+Dayflow - Human Resource Management System (1).pdf
+SUPABASE_SETUP.md
+dist
+node_modules
+*.log
+.env*
+!.env.example
+.vercel
+.git
